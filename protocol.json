@@ -437,7 +437,7 @@
   },
   //交易数据
   "respInfo":[{
-     "dataType":"xx",
+     "dataType":"trade",
      "data":{
          }
   }]
